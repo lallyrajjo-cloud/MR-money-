@@ -1,4 +1,4 @@
-name: .github/workflows/build-apk.yml
+  MR MONEY APK
 
 on:
   workflow_dispatch:
