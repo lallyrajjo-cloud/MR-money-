@@ -1,4 +1,4 @@
-   name: MONEY APK
+   name: Build MR MONEY APK
 
 on:
   workflow_dispatch:
