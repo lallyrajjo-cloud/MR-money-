@@ -1,4 +1,4 @@
-  name: MR MONEY APK
+   MR MONEY APK
 
 on:
   workflow_dispatch:
